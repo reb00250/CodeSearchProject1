@@ -1,4 +1,4 @@
-echo 'import CodeSearchProject2.Util;
+import CodeSearchProject2.Util;
 import CodeSearchProject3.Util;
 
 public class FunctionCaller {
